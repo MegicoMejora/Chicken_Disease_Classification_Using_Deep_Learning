@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Chicken_Disease_Classification_Using_Deep_Learning"
 AUTHOR_USER_NAME = "MegicoMejora"
-SRC_REPO = "Chicken_Disease_Classifiaction"
+SRC_REPO = "Chicken_Disease_Classification"
 AUTHOR_EMAIL = "sini_mmm@yahoo.com"
 
 setuptools.setup(
