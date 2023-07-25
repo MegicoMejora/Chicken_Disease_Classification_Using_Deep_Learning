@@ -56,8 +56,25 @@ Steps involved in creating this project are
 
     - tensorboard --logdir artifacts/prepare_calbacks/tensorboard_log_dir/
 
+
 3. commands for DVC file
 
     - dvc init
     - dvc repro
     - dvc dag
+    - 
+## Prediction running on localhost
+
+Predicting the Chicken fecal as 'Healthy' or 'Coccidiosis'.
+
+![image](https://github.com/MegicoMejora/Chicken_Disease_Classification_Using_Deep_Learning/assets/80173980/22b9bb0c-4366-41ac-a122-cf0fdf2d05db)
+
+Model predicting Chicken fecal as 'Healthy'
+
+![image](https://github.com/MegicoMejora/Chicken_Disease_Classification_Using_Deep_Learning/assets/80173980/c00ab1f4-19eb-4e47-b730-3923efe274b8)
+
+Model predicting hicken fecal as 'Coccidiosis'
+
+![image](https://github.com/MegicoMejora/Chicken_Disease_Classification_Using_Deep_Learning/assets/80173980/9531bb7d-0cb6-41e4-8388-4b00aefb04af)
+
+
