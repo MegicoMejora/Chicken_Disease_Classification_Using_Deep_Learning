@@ -1,9 +1,9 @@
-artifacts_root: artifacts
+artifacts_root: artifacts #root directory
 
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_url: https://github.com/MegicoMejora/Data_For_Projects/raw/main/Chicken_fecal_data.zip
+  source_url: https://github.com/MegicoMejora/Data_For_Projects/raw/main/Chicken_fecal_data.zip #downloads data from git
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 

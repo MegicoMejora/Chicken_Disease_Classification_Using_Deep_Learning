@@ -14,4 +14,4 @@ types-pyYAML
 scipy
 Flask
 Flask-Cors
--e .
+-e . #helps to create folders in source folder as local package

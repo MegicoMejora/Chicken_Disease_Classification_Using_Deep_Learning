@@ -13,8 +13,8 @@ logging.basicConfig(
             format=logging_str,
 
             handlers=[
-                    logging.FileHandler(log_filepath),
-                    logging.StreamHandler(sys.stdout)
+                    logging.FileHandler(log_filepath), #creates the files
+                    logging.StreamHandler(sys.stdout) #prints the logs in the terminal
             ]
 
 )
